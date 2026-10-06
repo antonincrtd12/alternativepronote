@@ -37,10 +37,12 @@ npm start
 
 ## GitHub
 
+Dépôt : **https://github.com/antonincrtd12/alternativepronote**
+
+Pour repousser plus tard :
+
 ```powershell
-$env:Path = "C:\Program Files\Git\cmd;C:\Program Files\GitHub CLI;" + $env:Path
-gh auth login
-.\scripts\push-github.ps1
+git push origin main
 ```
 
 ## Licence
